@@ -25,7 +25,7 @@ console.log(myNewString); // 'Developer'
 There are many ways to do this. Let's take a look:
 
 ```JavaScript
-/Solution1:
+//Solution1:
 
 
 //Solution2: instead of using charAt(0) we will use string[0]
